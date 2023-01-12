@@ -1,4 +1,4 @@
-# Shoutmachine  
+# Shout Machine  
 
 #### Justin Lee, Molly Donegan
 
